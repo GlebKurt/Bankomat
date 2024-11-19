@@ -1,5 +1,1 @@
 admin,admin1234,0
-Gleb,3009,1400
-Sasha,12345,10
-Oleh,123,100
-Denis,1111,0
